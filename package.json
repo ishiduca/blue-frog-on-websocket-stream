@@ -1,0 +1,22 @@
+{
+  "name": "blue-frog-on-websocket-stream",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json-rpc2",
+    "jsonrpc2",
+    "stream",
+    "websocket"
+  ],
+  "author": "ishiduca@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "blue-frog-core": "^0.3.0",
+    "blue-frog-stream": "^0.3.0",
+    "through2": "^2.0.1"
+  }
+}
